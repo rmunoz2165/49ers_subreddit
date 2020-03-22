@@ -2,6 +2,10 @@ ROBERT M PROJECT 3
 
 PROJECT 3 NLP BINARY CLASSIFICATION PROBLEM EXECUTIVE SUMMARY:
 
+**Project presentation** 
+   
+   [Link](SF 49ers Marketing.pdf)
+
 Using Pushshift's API two subreddit posts have been collected: r/49ers and r/NFL
 Using a NLP, the goal is to train a classifier on which subreddit a given post came from. One way of measuring this is through accuracy.
 
